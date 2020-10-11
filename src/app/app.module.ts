@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './vistas/home/home.component';
 import { SearchComponent } from './vistas/search/search.component';
 import { MisStickersComponent } from './vistas/mis-stickers/mis-stickers.component';
+import { NavbarComponent } from './componentes/generales/navbar/navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     SearchComponent,
-    MisStickersComponent
+    MisStickersComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
