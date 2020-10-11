@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "stickerCatcher"
+    }
+  },
+  "defaultProject": "stickerCatcher",
+  "cli": {
+    "analytics": "13ff07f9-abb1-4b9c-b66f-5a8eec4b4ef1"
+  }
 }
